@@ -1,4 +1,4 @@
-# Project Title - Text Mining
+# Text Mining Uing Rapid Miner
 Technologies Used: Rapid Miner tool, K-means Clustering, Visualization
 
 This project is to analyze the information about the employee reviews of the company Microsoft at different locations.
